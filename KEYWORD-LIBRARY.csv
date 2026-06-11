@@ -1,0 +1,18 @@
+type,keyword,target_url,intent,priority
+core,"k1 game login","/","homepage",1
+"troubleshooting","k1 game login not working","/guides/k1-game-login-not-working/","troubleshooting",1
+"otp","k1 game otp not received","/guides/otp-not-received/","otp",1
+"tutorial","k1 game password reset","/guides/password-reset-guide/","tutorial",1
+"support","k1 game account locked","/guides/account-locked/","support",1
+"login","k1 game phone number format","/guides/phone-number-format/","login",2
+"comparison","k1 game app login vs web login","/guides/app-login-vs-web-login/","comparison",2
+"support","k1 game session expired","/guides/expired-session/","support",2
+"device","k1 game login new phone","/guides/login-on-new-phone/","device",2
+"otp","k1 game otp resend","/guides/otp-resend-timing/","otp",3
+"safety","k1 game safe login","/guides/safe-login-checklist/","safety",3
+"support","k1 game forgot username","/guides/forgot-username/","support",3
+"troubleshooting","k1 game login error","/guides/login-error-codes/","troubleshooting",3
+hub,"Login Help","/login-help/","hub",1
+hub,"OTP Center","/otp-center/","hub",2
+hub,"Password Reset","/password-reset/","hub",3
+hub,"Account Safety","/account-safety/","hub",4
