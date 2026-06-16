@@ -16,3 +16,5 @@ hub,"Login Help","/login-help/","hub",1
 hub,"OTP Center","/otp-center/","hub",2
 hub,"Password Reset","/password-reset/","hub",3
 hub,"Account Safety","/account-safety/","hub",4
+"otp","k1 game otp not received jazz sim","/guides/otp-not-received-jazz-sim/","otp",1
+"login","k1 game login after device change","/guides/login-after-device-change/","login",1
