@@ -27,3 +27,4 @@ week,site,content_type,target_keyword,url,action
 2026-06-17,k1pakistanapp.com,K1 Login Manual,"k1 game password reset without otp",/guides/password-reset-without-otp/,next content sprint
 7,"K1 Login Manual","otp","k1 game otp not received jazz sim","/guides/otp-not-received-jazz-sim/","Publish or improve: K1 Game OTP Not Received on Jazz SIM: Login Checklist"
 7,"K1 Login Manual","login","k1 game login after device change","/guides/login-after-device-change/","Publish or improve: K1 Game Login After Device Change: What to Verify"
+8,"K1 Login Manual","login hub","k1 game login otp troubleshooting","/guides/login-otp-troubleshooting/","Publish or improve: K1 Game Login and OTP Troubleshooting Center"
