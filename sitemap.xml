@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-  <url><loc>http://k1pakistanapp.com/</loc><lastmod>2026-06-17</lastmod></url>
-  <url><loc>http://k1pakistanapp.com/guides/</loc><lastmod>2026-06-17</lastmod></url>
+  <url><loc>http://k1pakistanapp.com/</loc><lastmod>2026-06-19</lastmod></url>
+  <url><loc>http://k1pakistanapp.com/guides/</loc><lastmod>2026-06-19</lastmod></url>
   <url><loc>http://k1pakistanapp.com/login-help/</loc><lastmod>2026-06-12</lastmod></url>
   <url><loc>http://k1pakistanapp.com/otp-center/</loc><lastmod>2026-06-12</lastmod></url>
   <url><loc>http://k1pakistanapp.com/password-reset/</loc><lastmod>2026-06-12</lastmod></url>
@@ -43,6 +43,9 @@
   <url><loc>http://k1pakistanapp.com/guides/login-otp-troubleshooting/</loc><lastmod>2026-06-17</lastmod></url>
   <url><loc>http://k1pakistanapp.com/guides/login-from-old-phone-number/</loc><lastmod>2026-06-17</lastmod></url>
   <url><loc>http://k1pakistanapp.com/site-map/</loc><lastmod>2026-06-17</lastmod></url>
+  <url><loc>http://k1pakistanapp.com/guides/login-after-sim-change/</loc><lastmod>2026-06-18</lastmod></url>
+  <url><loc>http://k1pakistanapp.com/guides/otp-goes-to-old-number/</loc><lastmod>2026-06-19</lastmod></url>
 </urlset>
+
 
 
