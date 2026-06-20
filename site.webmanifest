@@ -1,0 +1,13 @@
+{
+    "name":  "K1 Login Manual",
+    "short_name":  "K1 Login Manual",
+    "start_url":  "/",
+    "scope":  "/",
+    "display":  "standalone",
+    "background_color":  "#ffffff",
+    "theme_color":  "#0f172a",
+    "description":  "K1 Game login help center for Pakistan users, covering account access routes, OTP issues, password reset steps, login errors and safe registration guidance.",
+    "icons":  [
+
+              ]
+}
