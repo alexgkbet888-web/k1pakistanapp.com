@@ -1,4 +1,4 @@
-week,site,content_type,target_keyword,url,action
+﻿week,site,content_type,target_keyword,url,action
 1,"K1 Login Manual","troubleshooting","k1 game login not working","/guides/k1-game-login-not-working/","Publish or improve: K1 Game Login Not Working: Fast Checks"
 1,"K1 Login Manual","otp","k1 game otp not received","/guides/otp-not-received/","Publish or improve: K1 Game OTP Not Received: Causes and Fixes"
 1,"K1 Login Manual","tutorial","k1 game password reset","/guides/password-reset-guide/","Publish or improve: K1 Game Password Reset Guide"
@@ -29,3 +29,8 @@ week,site,content_type,target_keyword,url,action
 7,"K1 Login Manual","login","k1 game login after device change","/guides/login-after-device-change/","Publish or improve: K1 Game Login After Device Change: What to Verify"
 8,"K1 Login Manual","login hub","k1 game login otp troubleshooting","/guides/login-otp-troubleshooting/","Publish or improve: K1 Game Login and OTP Troubleshooting Center"
 2026-06-18,k1pakistanapp.com,K1 Login Manual,"k1 game login from old phone number",/guides/login-from-old-phone-number/,next content sprint
+"2026-06-18","published","k1 game login after sim change","/guides/login-after-sim-change/","daily content sprint","new long-tail page with FAQ, internal links, sitemap and feed update"
+"2026-06-19","published","k1 game otp comes to old number","/guides/otp-goes-to-old-number/","daily content sprint","new long-tail page with FAQ, internal links, sitemap and feed update"
+
+"2026-06-20","planned","k1 game old number login recovery","/guides/old-number-login-recovery/","next content sprint","Publish or improve: K1 Game Old Number Login Recovery"
+"2026-06-21","planned","k1 game otp code expired before login","/guides/otp-code-expired-before-login/","next content sprint","Publish or improve: K1 Game OTP Code Expired Before Login"
