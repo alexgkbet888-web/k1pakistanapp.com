@@ -1,10 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
     <title>K1 Login Manual Feed</title>
     <link>http://k1pakistanapp.com/</link>
     <description>Recent guide updates for K1 Login Manual.</description>
-    <lastBuildDate>Wed, 17 Jun 2026 14:10:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 14:10:00 GMT</lastBuildDate>
+    <item>
+      <title>K1 Game OTP Goes to Old Number: Recovery Checks for Pakistan Users</title>
+      <link>http://k1pakistanapp.com/guides/otp-goes-to-old-number/</link>
+      <guid>http://k1pakistanapp.com/guides/otp-goes-to-old-number/</guid>
+      <pubDate>Fri, 19 Jun 2026 14:10:00 GMT</pubDate>
+      <description>Login recovery guide for K1 Game users whose OTP still goes to an old number after a SIM change, new phone setup, or account access reset.</description>
+    </item>
+    <item>
+      <title>K1 Game Login After SIM Change: Recovery Path for Pakistan Users</title>
+      <link>http://k1pakistanapp.com/guides/login-after-sim-change/</link>
+      <guid>http://k1pakistanapp.com/guides/login-after-sim-change/</guid>
+      <pubDate>Thu, 18 Jun 2026 14:10:00 GMT</pubDate>
+      <description>Login recovery guide for K1 Game users who changed SIM cards and can no longer receive OTP or confirm the old account path.</description>
+    </item>
     <item>
       <title>K1 Game Login From Old Phone Number: Recovery Checklist</title>
       <link>http://k1pakistanapp.com/guides/login-from-old-phone-number/</link>
@@ -175,3 +189,4 @@
     </item>
   </channel>
 </rss>
+
