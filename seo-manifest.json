@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "domain": "k1pakistanapp.com",
+  "brand": "K1 Pakistan App",
+  "market": "Pakistan",
+  "language": "en-PK",
+  "batch": "K1-P1",
+  "owner": "alexgkbet888-web",
+  "deployUrl": "https://k1pakistanapp.com/",
+  "siteType": "authority",
+  "positioning": "K1 login, OTP, password and account-access help site",
+  "status": "active",
+  "registerTarget": "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+  "primaryKeywords": [
+    "K1 login",
+    "K1Login",
+    "K1 app login"
+  ],
+  "secondaryKeywords": [
+    "K1 login password",
+    "K1 game login",
+    "K1 OTP not received",
+    "K1 register Pakistan"
+  ],
+  "technical": {
+    "sitemapUrl": "https://k1pakistanapp.com/sitemap.xml",
+    "robotsUrl": "https://k1pakistanapp.com/robots.txt",
+    "feedUrl": "https://k1pakistanapp.com/feed.xml",
+    "hasH5Responsive": true,
+    "hasRegisterCta": true,
+    "hasLoginLink": true,
+    "hasLotteryDirection": false
+  },
+  "gsc": {
+    "property": "sc-domain:k1pakistanapp.com",
+    "connected": true
+  },
+  "monitoring": {
+    "source": "local-generated",
+    "generatedAt": "2026-06-28",
+    "evidencePolicy": "Do not infer clicks, impressions, CTR, ranking, or indexing without GSC/SERP evidence."
+  }
+}
