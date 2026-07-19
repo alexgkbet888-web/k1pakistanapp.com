@@ -39,4 +39,8 @@ body{margin:0;font-family:Segoe UI,Arial,sans-serif;background:#f5f7fb;color:#11
   .m-register{width:min(338px,calc(100vw - 52px))!important}
   .m-actions{width:min(338px,calc(100vw - 52px))!important}
 }
+@media(max-width:860px){
+  .m-actions a,.side a,footer a{min-height:44px;display:flex;align-items:center;box-sizing:border-box}
+  .side a,footer a{padding-top:10px;padding-bottom:10px}
+}
 
